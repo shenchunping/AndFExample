@@ -1,0 +1,9 @@
+[submodule "AndFRetrofit"]
+	path = AndFRetrofit
+	url = https://github.com/shenchunping/AndFRetrofit.git
+[submodule "AndFDagger"]
+	path = AndFDagger
+	url = https://github.com/shenchunping/AndFDagger.git
+[submodule "AndFUtils"]
+	path = AndFUtils
+	url = https://github.com/shenchunping/AndFUtils.git

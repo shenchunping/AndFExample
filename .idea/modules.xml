@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndFDagger/AndFDagger.iml" filepath="$PROJECT_DIR$/AndFDagger/AndFDagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndFExample.iml" filepath="$PROJECT_DIR$/AndFExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndFRetrofit/AndFRetrofit.iml" filepath="$PROJECT_DIR$/AndFRetrofit/AndFRetrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndFUtils/AndFUtils.iml" filepath="$PROJECT_DIR$/AndFUtils/AndFUtils.iml" />
+      <module fileurl="file://F:\AsWorkspace\andfram\AndFrame.iml" filepath="F:\AsWorkspace\andfram\AndFrame.iml" />
+      <module fileurl="file://D:\workspaces\AsProjects\AndFExample\AndFrame.iml" filepath="D:\workspaces\AsProjects\AndFExample\AndFrame.iml" />
+      <module fileurl="file://D:\workspaces\AsProjects\AndFExample\andapi\andapi.iml" filepath="D:\workspaces\AsProjects\AndFExample\andapi\andapi.iml" />
+      <module fileurl="file://D:\workspaces\AsProjects\AndFrame\andfram.iml" filepath="D:\workspaces\AsProjects\AndFrame\andfram.iml" />
+      <module fileurl="file://D:\workspaces\AsProjects\AndFExample\andgreendao\andgreendao.iml" filepath="D:\workspaces\AsProjects\AndFExample\andgreendao\andgreendao.iml" />
+      <module fileurl="file://D:\workspaces\AsProjects\AndFExample\andmvp\andmvp.iml" filepath="D:\workspaces\AsProjects\AndFExample\andmvp\andmvp.iml" />
+      <module fileurl="file://D:\workspaces\AsProjects\AndFExample\andserialport\andserialport.iml" filepath="D:\workspaces\AsProjects\AndFExample\andserialport\andserialport.iml" />
+      <module fileurl="file://D:\workspaces\AsProjects\AndFExample\andutil\andutil.iml" filepath="D:\workspaces\AsProjects\AndFExample\andutil\andutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
